@@ -1,0 +1,12 @@
+..\..\output\flash.o: ..\..\User\flash.c
+..\..\output\flash.o: ..\..\User\flash.h
+..\..\output\flash.o: ..\..\Libraries\CMSIS\stm32f10x.h
+..\..\output\flash.o: ..\..\Libraries\CMSIS\core_cm3.h
+..\..\output\flash.o: E:\MDK4.7\ARM\ARMCC\bin\..\include\stdint.h
+..\..\output\flash.o: ..\..\Libraries\CMSIS\system_stm32f10x.h
+..\..\output\flash.o: ..\..\User\stm32f10x_conf.h
+..\..\output\flash.o: ..\..\Libraries\FWlib\inc\stm32f10x_gpio.h
+..\..\output\flash.o: ..\..\Libraries\CMSIS\stm32f10x.h
+..\..\output\flash.o: ..\..\Libraries\FWlib\inc\stm32f10x_rcc.h
+..\..\output\flash.o: ..\..\User\TempControl.h
+..\..\output\flash.o: ..\..\Libraries\FWlib\inc\stm32f10x_flash.h

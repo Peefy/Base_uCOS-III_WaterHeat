@@ -1,0 +1,11 @@
+..\..\output\iwdg.o: ..\..\User\iwdg.c
+..\..\output\iwdg.o: ..\..\User\iwdg.h
+..\..\output\iwdg.o: ..\..\Libraries\FWlib\inc\stm32f10x_iwdg.h
+..\..\output\iwdg.o: ..\..\Libraries\CMSIS\stm32f10x.h
+..\..\output\iwdg.o: ..\..\Libraries\CMSIS\core_cm3.h
+..\..\output\iwdg.o: E:\MDK4.7\ARM\ARMCC\bin\..\include\stdint.h
+..\..\output\iwdg.o: ..\..\Libraries\CMSIS\system_stm32f10x.h
+..\..\output\iwdg.o: ..\..\User\stm32f10x_conf.h
+..\..\output\iwdg.o: ..\..\Libraries\FWlib\inc\stm32f10x_gpio.h
+..\..\output\iwdg.o: ..\..\Libraries\CMSIS\stm32f10x.h
+..\..\output\iwdg.o: ..\..\Libraries\FWlib\inc\stm32f10x_rcc.h

@@ -1,0 +1,17 @@
+..\..\output\mbfuncother.o: ..\..\modbus\functions\mbfuncother.c
+..\..\output\mbfuncother.o: G:\MDK\ARM\ARMCC\bin\..\include\stdlib.h
+..\..\output\mbfuncother.o: G:\MDK\ARM\ARMCC\bin\..\include\string.h
+..\..\output\mbfuncother.o: ..\..\modbus\port\port.h
+..\..\output\mbfuncother.o: ..\..\Libraries\CMSIS\stm32f10x.h
+..\..\output\mbfuncother.o: ..\..\Libraries\CMSIS\core_cm3.h
+..\..\output\mbfuncother.o: G:\MDK\ARM\ARMCC\bin\..\include\stdint.h
+..\..\output\mbfuncother.o: ..\..\Libraries\CMSIS\system_stm32f10x.h
+..\..\output\mbfuncother.o: ..\..\User\stm32f10x_conf.h
+..\..\output\mbfuncother.o: ..\..\Libraries\FWlib\inc\stm32f10x_gpio.h
+..\..\output\mbfuncother.o: ..\..\Libraries\CMSIS\stm32f10x.h
+..\..\output\mbfuncother.o: ..\..\Libraries\FWlib\inc\stm32f10x_rcc.h
+..\..\output\mbfuncother.o: ..\..\modbus\include\mb.h
+..\..\output\mbfuncother.o: ..\..\modbus\include\mbport.h
+..\..\output\mbfuncother.o: ..\..\modbus\include\mbproto.h
+..\..\output\mbfuncother.o: ..\..\modbus\include\mbframe.h
+..\..\output\mbfuncother.o: ..\..\modbus\include\mbconfig.h

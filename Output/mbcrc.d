@@ -1,0 +1,10 @@
+..\..\output\mbcrc.o: ..\..\modbus\rtu\mbcrc.c
+..\..\output\mbcrc.o: ..\..\modbus\port\port.h
+..\..\output\mbcrc.o: ..\..\Libraries\CMSIS\stm32f10x.h
+..\..\output\mbcrc.o: ..\..\Libraries\CMSIS\core_cm3.h
+..\..\output\mbcrc.o: G:\MDK\ARM\ARMCC\bin\..\include\stdint.h
+..\..\output\mbcrc.o: ..\..\Libraries\CMSIS\system_stm32f10x.h
+..\..\output\mbcrc.o: ..\..\User\stm32f10x_conf.h
+..\..\output\mbcrc.o: ..\..\Libraries\FWlib\inc\stm32f10x_gpio.h
+..\..\output\mbcrc.o: ..\..\Libraries\CMSIS\stm32f10x.h
+..\..\output\mbcrc.o: ..\..\Libraries\FWlib\inc\stm32f10x_rcc.h

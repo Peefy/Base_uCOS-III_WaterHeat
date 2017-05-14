@@ -1,0 +1,14 @@
+..\..\output\keyex.o: ..\..\User\keyEx.c
+..\..\output\keyex.o: ..\..\User\keyEx.h
+..\..\output\keyex.o: E:\MDK4.7\ARM\ARMCC\bin\..\include\stdbool.h
+..\..\output\keyex.o: ..\..\Libraries\FWlib\inc\stm32f10x_gpio.h
+..\..\output\keyex.o: ..\..\Libraries\CMSIS\stm32f10x.h
+..\..\output\keyex.o: ..\..\Libraries\CMSIS\core_cm3.h
+..\..\output\keyex.o: E:\MDK4.7\ARM\ARMCC\bin\..\include\stdint.h
+..\..\output\keyex.o: ..\..\Libraries\CMSIS\system_stm32f10x.h
+..\..\output\keyex.o: ..\..\User\stm32f10x_conf.h
+..\..\output\keyex.o: ..\..\Libraries\FWlib\inc\stm32f10x_gpio.h
+..\..\output\keyex.o: ..\..\Libraries\FWlib\inc\stm32f10x_rcc.h
+..\..\output\keyex.o: ..\..\Libraries\CMSIS\stm32f10x.h
+..\..\output\keyex.o: ..\..\User\TempControl.h
+..\..\output\keyex.o: ..\..\User\flash.h

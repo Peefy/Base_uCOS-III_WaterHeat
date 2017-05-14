@@ -1,0 +1,17 @@
+..\..\output\mbfuncdisc.o: ..\..\modbus\functions\mbfuncdisc.c
+..\..\output\mbfuncdisc.o: G:\MDK\ARM\ARMCC\bin\..\include\stdlib.h
+..\..\output\mbfuncdisc.o: G:\MDK\ARM\ARMCC\bin\..\include\string.h
+..\..\output\mbfuncdisc.o: ..\..\modbus\port\port.h
+..\..\output\mbfuncdisc.o: ..\..\Libraries\CMSIS\stm32f10x.h
+..\..\output\mbfuncdisc.o: ..\..\Libraries\CMSIS\core_cm3.h
+..\..\output\mbfuncdisc.o: G:\MDK\ARM\ARMCC\bin\..\include\stdint.h
+..\..\output\mbfuncdisc.o: ..\..\Libraries\CMSIS\system_stm32f10x.h
+..\..\output\mbfuncdisc.o: ..\..\User\stm32f10x_conf.h
+..\..\output\mbfuncdisc.o: ..\..\Libraries\FWlib\inc\stm32f10x_gpio.h
+..\..\output\mbfuncdisc.o: ..\..\Libraries\CMSIS\stm32f10x.h
+..\..\output\mbfuncdisc.o: ..\..\Libraries\FWlib\inc\stm32f10x_rcc.h
+..\..\output\mbfuncdisc.o: ..\..\modbus\include\mb.h
+..\..\output\mbfuncdisc.o: ..\..\modbus\include\mbport.h
+..\..\output\mbfuncdisc.o: ..\..\modbus\include\mbproto.h
+..\..\output\mbfuncdisc.o: ..\..\modbus\include\mbframe.h
+..\..\output\mbfuncdisc.o: ..\..\modbus\include\mbconfig.h
